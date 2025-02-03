@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:gravity="center"
+    android:padding="20dp"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context=".TermPolicyActivity">
+
+
+    <TextView
+        android:id="@+id/textView12"
+        android:textColor="#03A9F4"
+        android:layout_width="320dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textSize="30dp"
+        android:text="Term and Policy" />
+
+    <TextView
+        android:id="@+id/textView14"
+
+        android:layout_width="320dp"
+        android:layout_height="wrap_content"
+        android:text="By using the Weatherly app, you agree to our terms and privacy policy. We collect and use location data to provide accurate weather updates, but we do not store or share personal information with third parties. Your login credentials and preferences are securely managed through Firebase Authentication. The app may use third-party APIs (such as OpenWeatherMap) to fetch weather data. We are not responsible for inaccuracies in the weather forecast. By continuing to use Weatherly, you acknowledge and accept these terms. For any concerns, please contact our support team."
+        android:textSize="18dp"
+        android:textColor="@color/black"
+        android:justificationMode="inter_word" />
+
+    <View
+        android:layout_width="320dp"
+        android:layout_height="20dp"></View>
+
+    <Button
+        android:id="@+id/btnBack"
+        android:text="Back"
+        android:layout_width="320dp"
+        android:layout_height="wrap_content"
+        android:textSize="18dp"
+        android:backgroundTint="@color/Blue"
+        android:textStyle="bold"
+        android:textColor="@color/white" />
+</LinearLayout>

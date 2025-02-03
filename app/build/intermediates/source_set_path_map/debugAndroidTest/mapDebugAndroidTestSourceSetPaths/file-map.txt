@@ -1,0 +1,6 @@
+com.weatherly.app.test.app-annotation-experimental-1.4.0-0 C:\Users\Ismail Ahmad\.gradle\caches\8.9\transforms\54e19ee95f2c0ab8e7162eed5ec6eb53\transformed\annotation-experimental-1.4.0\res
+com.weatherly.app.test.app-core-1.5.0-1 C:\Users\Ismail Ahmad\.gradle\caches\8.9\transforms\c2d670fde19ea2f309e1e731886c8a03\transformed\core-1.5.0\res
+com.weatherly.app.test.app-androidTest-2 C:\Users\Ismail Ahmad\AndroidStudioProjects\WeatherApp\app\build\generated\res\resValues\androidTest\debug
+com.weatherly.app.test.app-mergeDebugAndroidTestResources-3 C:\Users\Ismail Ahmad\AndroidStudioProjects\WeatherApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.weatherly.app.test.app-mergeDebugAndroidTestResources-4 C:\Users\Ismail Ahmad\AndroidStudioProjects\WeatherApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.weatherly.app.test.app-debugAndroidTest-5 C:\Users\Ismail Ahmad\AndroidStudioProjects\WeatherApp\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

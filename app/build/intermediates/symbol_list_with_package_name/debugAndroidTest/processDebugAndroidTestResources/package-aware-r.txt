@@ -1,0 +1,3 @@
+com.weatherly.app.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

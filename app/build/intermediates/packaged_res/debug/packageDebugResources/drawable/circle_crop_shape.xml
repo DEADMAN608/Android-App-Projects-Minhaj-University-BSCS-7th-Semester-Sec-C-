@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="ring">
+
+    <corners android:radius="300dp" /> <!-- Ensures circular corners -->
+    <solid android:color="@android:color/transparent" /> <!-- Background is transparent -->
+
+</shape>

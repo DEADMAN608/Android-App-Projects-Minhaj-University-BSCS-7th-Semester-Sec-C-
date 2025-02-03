@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.weatherly.app-mergeDebugResources-38:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Ismail Ahmad\\.gradle\\caches\\8.9\\transforms\\73a74fda0e0c57cc34faf40ccb340613\\transformed\\appcompat-1.7.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

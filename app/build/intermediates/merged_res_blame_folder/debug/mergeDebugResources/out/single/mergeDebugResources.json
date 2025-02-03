@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\drawable_hamburger.png.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\drawable\\hamburger.png"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\drawable_weatherlogin.png.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\drawable\\weatherlogin.png"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\drawable_home_bg3.jpg.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\drawable\\home_bg3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\drawable_home_bg.jpg.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\drawable\\home_bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\drawable_circle_crop_shape.xml.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\drawable\\circle_crop_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\drawable_ic_placeholder1.png.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\drawable\\ic_placeholder1.png"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\drawable_prfile.jpg.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\drawable\\prfile.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\drawable_weatherlogo01.png.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\drawable\\weatherlogo01.png"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\drawable_ic_placeholder.jpg.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\drawable\\ic_placeholder.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\drawable_home_bg5.jpg.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\drawable\\home_bg5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\drawable_ic_edit2.png.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\drawable\\ic_edit2.png"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.weatherly.app-debug-40:/layout_activity_forget_password.xml.flat",
+        "source": "com.weatherly.app-main-42:/layout/activity_forget_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\drawable_weatherlylogin.png.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\drawable\\weatherlylogin.png"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\drawable_home_bg2.jpg.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\drawable\\home_bg2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\drawable_go_btn_bg.xml.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\drawable\\go_btn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\drawable_home_bg1.jpg.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\drawable\\home_bg1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\layout_activity_forget_password.xml.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\layout\\activity_forget_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\layout_activity_term_policy.xml.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\layout\\activity_term_policy.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\drawable_border.xml.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\drawable\\border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\layout_hourly_weather_layout_activity.xml.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\layout\\hourly_weather_layout_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\drawable_welcome.png.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\drawable\\welcome.png"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\drawable_ic_edit3.png.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\drawable\\ic_edit3.png"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\layout_activity_terms_policy.xml.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\layout\\activity_terms_policy.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\drawable_profile.jpg.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\drawable\\profile.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\drawable_home_bg4.jpg.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\drawable\\home_bg4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\layout_daily_weather_layout_activity.xml.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\layout\\daily_weather_layout_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\drawable_thick_border.xml.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\drawable\\thick_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\drawable_home_bg_1.jpg.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\drawable\\home_bg_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-debug-40:\\drawable_ic_edit1.jpg.flat",
+        "source": "C:\\Users\\Ismail Ahmad\\.gradle\\daemon\\8.9\\com.weatherly.app-main-42:\\drawable\\ic_edit1.jpg"
+    }
+]
